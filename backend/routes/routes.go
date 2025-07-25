@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"backend/controllers"
+	"opentrip-backend/controllers"
 )
 
 func SetupRouter() *gin.Engine {

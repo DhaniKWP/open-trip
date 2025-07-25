@@ -1,4 +1,4 @@
-module github.com/your-username/open-trip/backend
+module opentrip-backend
 
 go 1.24.1
 

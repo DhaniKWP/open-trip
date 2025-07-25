@@ -3,8 +3,8 @@ package controllers
 import (
 	"net/http"
 	"github.com/gin-gonic/gin"
-	"backend/database"
-	"backend/models"
+	"opentrip-backend/database"
+	"opentrip-backend/models"
 )
 
 func GetTrips(c *gin.Context) {

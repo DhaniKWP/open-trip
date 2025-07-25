@@ -1,9 +1,9 @@
 package main
 
 import (
-	"backend/database"
-	"backend/models"
-	"backend/routes"
+    "opentrip-backend/database"
+    "opentrip-backend/models"
+    "opentrip-backend/routes"
 )
 
 func main() {
